@@ -1,0 +1,8 @@
+{
+    "name": "access-cl-ahmed",
+    "version": "1.0.1",
+    "description": "A simple Access-control-list Project.",
+    "main": "index.js",
+    "author": "Ahmed Adel Alemam <ahmedemam755@gmail.com>",
+    "license": "MIT"
+}
